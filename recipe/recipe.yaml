@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.0"
+  version: "0.6.0"
 
 package:
   name: boast
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/mbhall88/boast/archive/refs/tags/${{ version }}.tar.gz
-  sha256: 88775491f574a77237ba852a908cae25c17f374466f1b8d6057a98109febff3c
+  sha256: 57c473796bf9754c1166581ca05c99b46b6cb17114238fd77f1338e3a17d290b
 
 build:
   number: 0
